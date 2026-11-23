@@ -1,0 +1,4 @@
+interface:
+  display_name: "天气海报轮播"
+  short_description: "批量替换城市温度文字并生成透明天气轮播 GIF"
+  default_prompt: "使用 $weather-poster-gif 把这张天气海报批量制作成透明城市轮播 GIF。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "直播间 GIF 动画"
+  short_description: "制作、检查并迭代各类直播间透明 GIF 动画"
+  default_prompt: "使用 $live-room-gif 根据参考素材制作一套直播间 GIF 动画，并输出逐帧素材和审核预览。"
